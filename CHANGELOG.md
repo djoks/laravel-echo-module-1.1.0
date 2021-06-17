@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.1 (2021-06-17)
+
+
+### Bug Fixes
+
+* changed function to get token. ([cb5e7f8](https://github.com/nuxt-community/laravel-echo/commit/cb5e7f8))
+
 ## [1.1.0](https://github.com/nuxt-community/laravel-echo/compare/v1.0.3...v1.1.0) (2020-01-27)
 
 
